@@ -1,0 +1,2 @@
+,loss,accuracy,precision,recall,Specificity,F1score,true_positive,true_negative,false_positive,false_negative
+0,1.0620986223220825,0.4883720874786377,0.5,0.3255814015865326,0.8372093023255814,0.39436620175897585,14.0,72.0,14.0,29.0
