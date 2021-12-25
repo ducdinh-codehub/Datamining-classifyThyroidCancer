@@ -1,1 +1,1 @@
-![image info](./modelEvaluateScore.PNG)
+![Evaluation score](./modelEvaluateScore.PNG)
